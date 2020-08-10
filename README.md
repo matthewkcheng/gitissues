@@ -15,8 +15,7 @@ keeper $ npm start
 
 ## Usage
 
-When you first open the app, you will see a credentials form.
-You will need to submit an appropriate GitHub API key/Personal Access Token to log in. If you are unsure of how to obtain a token, please follow the link below.
+When you first open the app, you will see a credentials form. An appropriate GitHub API key/Personal Access Token will be required to log in. If you are unsure of how to obtain a token, please follow the link below.
 
 [HOW TO GET PERSONAL ACCESS TOKEN](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
 
@@ -34,7 +33,7 @@ From here, you are able to prioritize which issue is most important by simply dr
 
 ![GitIssues Demo](./public/photos/gitissues-demo.gif)
 
-(Note: Data will also persist with the applications implementation of LocalStorage)
+(Note: Data will also persist on refresh with the application's implementation of Local Storage)
 
 ## Tech Stack
 * React.JS
@@ -42,6 +41,7 @@ From here, you are able to prioritize which issue is most important by simply dr
 * HTML5
 * CSS3
 * JavaScript
+* ES6
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
