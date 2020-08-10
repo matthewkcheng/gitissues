@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/gitissues/static/js/main.dcf5de32.chunk.js",
+    "main.js.map": "/gitissues/static/js/main.dcf5de32.chunk.js.map",
+    "runtime-main.js": "/gitissues/static/js/runtime-main.2bcf4522.js",
+    "runtime-main.js.map": "/gitissues/static/js/runtime-main.2bcf4522.js.map",
+    "static/js/2.1366fa59.chunk.js": "/gitissues/static/js/2.1366fa59.chunk.js",
+    "static/js/2.1366fa59.chunk.js.map": "/gitissues/static/js/2.1366fa59.chunk.js.map",
+    "index.html": "/gitissues/index.html",
+    "precache-manifest.9bdf4dec0ab8d1dd09ad40aef2d5a96b.js": "/gitissues/precache-manifest.9bdf4dec0ab8d1dd09ad40aef2d5a96b.js",
+    "service-worker.js": "/gitissues/service-worker.js",
+    "static/js/2.1366fa59.chunk.js.LICENSE.txt": "/gitissues/static/js/2.1366fa59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bcf4522.js",
+    "static/js/2.1366fa59.chunk.js",
+    "static/js/main.dcf5de32.chunk.js"
+  ]
+}
